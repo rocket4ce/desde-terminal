@@ -9,3 +9,11 @@ Abrir el script en un editor de texto, luego cambiar el nombre de usuario.
 EL mio es rocket4ce, tu deberias poner tu usuario de github
 
 curl -u 'rocket4ce' https://api.github.com/user/repos -d "{\"name\":\"$repo_name\"}"
+
+Modo de uso
+
+Agregue a PATH /usr/local/bin
+
+Luego ejecutar
+
+sh git-create.sh 
