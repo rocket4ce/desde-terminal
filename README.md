@@ -1,4 +1,4 @@
-# Crear repositrio de github desde terminal terminal
+# Crear repositorio de github desde terminal
 
 Este es un pequeño bash para crear repositorios de github desde la terminal.
 
